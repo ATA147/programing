@@ -1,0 +1,29 @@
+table{
+    width:50%;
+    border-collapse:collapse;
+   }
+   
+   table,td{
+    border:3px solid #d00000;
+   }
+   
+   td{
+    padding:10px;
+    text-align:center;
+   }
+   td{
+       font-size: 20px;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+   }
+   tr{
+       font-weight: bold;
+   }
+   .ataa{
+    text-align: center;
+    color: #db1313;
+}
+body {
+    background-color: #ffe684;
+      }
+    
